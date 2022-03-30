@@ -7,8 +7,7 @@
 
 </div>
 
-### Vídeo ensinando detalhadamente como desenvolver esse projeto:
-https://www.youtube.com/watch?v=WleMQeMwUgA&t=451s
+### projeto Slide Photos
 
 ### Neste projeto foi desenvolvido um Slide de imagens.
 
